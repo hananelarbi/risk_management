@@ -6,18 +6,12 @@ The main deliverable is a Jupyter notebook that answers all project questions wi
 
 ## Repository structure
 
-### data/
-
 #### xle_xlk_portfolio_dataset.csv
 Cleaned historical dataset for the selected two-asset portfolio.  
 It contains daily prices, individual asset returns, and portfolio returns for XLE and XLK.
 
-### src/
-
 #### VAR.ipynb
 Main notebook containing the full project response, including markdown explanations, formulas, calculations, tables, VaR/ES estimations, option pricing, and plots.
-
-### Root files
 
 #### README.md
 Project description and usage notes.
